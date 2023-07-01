@@ -1,7 +1,5 @@
 <template>
-  <p class="copyright">This game owned by me 
-    <a href="#">view here</a>
-  </p>
+  <div></div>
 </template>
 <style>
 .copyright {
